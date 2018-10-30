@@ -20,7 +20,7 @@ LiquidCrystal_I2C lcd(0x3F, 16, 2);
 //SCL Pin for nano R3 
 
 //Male button on   pin 2   and GND
-//female button on pin 4   and GND
+//female button on pin 3   and GND
 //
 
 Button female = Button(3,BUTTON_PULLUP_INTERNAL);
