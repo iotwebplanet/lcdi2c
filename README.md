@@ -8,8 +8,12 @@ I2C Dispaly https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library.gi
 ## Hardware Required 
 
  LCD https://www.iotwebplanet.com/i2c-lcd-display-arduino-raspberry.html
+ 
  Board https://www.iotwebplanet.com/arduino-uno-r3-smd.html
+ 
  Cable https://www.iotwebplanet.com/arduino-uno-cable.html
+ 
  Wire https://www.iotwebplanet.com/jumper-wire.html
+ 
  Button https://www.iotwebplanet.com/tactile-tact-push-button.html
 
